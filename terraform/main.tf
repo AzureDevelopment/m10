@@ -5,7 +5,7 @@ variable "client_secret" {
 
 variable "subscription_id" {
   type = string
-  default = "279f98e7-bb11-40fb-92c5-237db9a32fb4"
+  default = ""
 }
 
 provider "azurerm" {
